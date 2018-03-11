@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 Thumbs.db
 db.json
@@ -8,3 +9,36 @@ public/
 themes/saleor/source/js/
 themes/saleor/source/app.css
 themes/saleor/source/images/
+=======
+*.py[cod]
+.*
+!.babelrc
+!.codeclimate.yml
+!.coveragerc
+!.dockerignore
+!.eslintrc.json
+!.flowconfig
+!.github
+!.gitignore
+!.nvmrc
+!.pylintrc
+!.travis*
+!.tx
+*.css
+*.log
+*.pot
+*.pyc
+local_settings.py
+__pycache__/
+build/
+dist/
+*\.egg*
+# data
+/docs/_build/
+/media/
+/node_modules/
+/static/
+/saleor/static/assets/
+webpack-bundle.json
+/templates/templated_email/compiled/
+>>>>>>> aecfd6c2831412b26e888f51466036d00325b4cc
